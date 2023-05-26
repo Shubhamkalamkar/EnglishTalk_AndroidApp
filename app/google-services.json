@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970763177134",
+    "firebase_url": "https://strangers-call-49f61-default-rtdb.firebaseio.com",
+    "project_id": "strangers-call-49f61",
+    "storage_bucket": "strangers-call-49f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970763177134:android:a2c8923aaa6db74549b13f",
+        "android_client_info": {
+          "package_name": "com.shubham.englishtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970763177134-qap2pno1n0bsjt31viqhkul7hlt0810j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.englishtalk",
+            "certificate_hash": "d11c81903517f2182283d31e23090f9ce7d59fa0"
+          }
+        },
+        {
+          "client_id": "970763177134-apvfjl25kkkak50079llcgno3luhjrl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDMAp-DcdMkB_Wgt5OUKWPzmk9l3DEVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970763177134-apvfjl25kkkak50079llcgno3luhjrl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
